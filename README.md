@@ -6,5 +6,4 @@
 * The User Will be Informed if his Picked Number is Too High or Too Low and Once the Correct Number is Guessed, The User Will be Congratulated.
 
 **System Info**
-* This Script Will Query Different System Information, Then it Groups them into Three Different Categories: "WINDOWS INFO",
-  "HARDWARE INFO & "NETWORK INFO.
+* This Script Will Query Different System Information, Then it Groups them into Three Different Categories: "Windows", "Hardware" & "Network" Info.
