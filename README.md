@@ -7,3 +7,4 @@
 
 **System Info**
 * It's a Batsh Script That Will Query Different System Information, Then it Groups them into Three Different Categories: "Windows", "Hardware" & "Network" Info.
+.
