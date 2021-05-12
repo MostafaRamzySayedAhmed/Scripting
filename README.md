@@ -6,4 +6,4 @@
 * The User Will be Informed if his Picked Number is Too High or Too Low and Once the Correct Number is Guessed, The User Will be Congratulated.
 
 **System Info**
-* It's a Batsh Script That Will Query Different System Information, Then it Groups them into Three Different Categories: "Windows", "Hardware" & "Network" Info
+* It's a Batsh Script That Will Query Different System Information, Then it Groups them into Three Different Categories: "Windows", "Hardware" & "Network" Info.
