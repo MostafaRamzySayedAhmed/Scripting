@@ -1,5 +1,5 @@
 # Scripting
-It's a Full Exercise on Bash/Batch Scripting
+It's a Full Exercise on Bash/Batch Scripting.
 
 **Guessing Game**
 * It's a Bash Script That Will Continuously Ask Users to Guess The Number of Files in Current Directory Till Picking The Correct One.
