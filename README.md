@@ -1,2 +1,2 @@
 # Scripting
-Full Exercising on Bash Scripting.
+Full Exercising on Bash Scripting
